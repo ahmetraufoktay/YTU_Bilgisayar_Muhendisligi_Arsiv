@@ -116,7 +116,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 <h2 align='center'>💰 Bölüm Mezunları Maaş İstatistikleri</h2>
 
-
 ### 2023-2024 Yılı İstatistikleri
 
 ### Tam Zamanlı - Normal Çalışan ve Mezun için Maaş Analizi
@@ -126,7 +125,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Ortalama Maaş (Aylık net ortalama) 2023 | Ortalama Maaş (Aylık net ortalama) 2024 | Maaş Artış Oranı (%) |
 |----------------------------------------|----------------------------------------|----------------------|
-| 32787.50                                 | 46775.00                                 | 42.66               |
+| 32083                                 | 46175                                 | 43.92               |
 
 
 
@@ -134,24 +133,24 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Şirket Adı   |   2023 Maaşı (Aylık net ortalama) |   2024 Maaşı (Aylık net ortalama) |   Maaş Artış Oranı (%) |
 |:-------------|----------------------------------:|----------------------------------:|-----------------------:|
-| Huawei       |                             28750 |                             39000 |                35.6522 |
-| TÜBİTAK      |                             41000 |                             45000 |                 9.7561 |
-| Yapı Kredi   |                             32500 |                             48000 |                47.6923 |
+| Huawei       |                             28750 |                             39000 |                  35.65 |
+| TÜBİTAK      |                             41000 |                             50000 |                  21.95 |
+| Yapı Kredi   |                             32500 |                             48000 |                  47.69 |
 
 
 
 ##### Alana Göre Maaş Ortalamaları ve Artış Oranları
 
-| Pozisyon Alanı         |   2023 Maaşı (Aylık net ortalama) |   2024 Maaşı (Aylık net ortalama) |   Maaş Artış Oranı (%) |
-|:-----------------------|----------------------------------:|----------------------------------:|-----------------------:|
-| Backend Geliştirici    |                           33100   |                           46100   |                39.2749 |
-| Full Stack Geliştirici |                           31964.3 |                           48928.6 |                53.0726 |
-| Gömülü                 |                           37000   |                           52000   |                40.5405 |
-| Kriptoloji             |                           40000   |                           40000   |                 0      |
-| Mobil Geliştirici      |                           38000   |                           55000   |                44.7368 |
-| Oyun Geliştirici       |                           50000   |                           57500   |                15      |
-| Veri Bilimci           |                           28000   |                           48000   |                71.4286 |
-| Yapay Zeka             |                           24500   |                           36666.7 |                49.6599 |
+| Pozisyon Alanı         |   2023 Maaşı (Aylık net ortalama) | 2024 Maaşı (Aylık net ortalama)   | Maaş Artış Oranı (%)   |
+|:-----------------------|----------------------------------:|:----------------------------------|:-----------------------|
+| Backend Geliştirici    |                             33100 | 46100                             | 39.27                  |
+| Full Stack Geliştirici |                             31964 | 48928                             | 53.07                  |
+| Gömülü                 |                             37000 | 52000                             | 40.54                  |
+| Kriptoloji             |                             40000 | Bilgi Yok                         | Bilgi Yok              |
+| Mobil Geliştirici      |                             28000 | 41500                             | 48.21                  |
+| Oyun Geliştirici       |                             50000 | 57500                             | 15.0                   |
+| Veri Bilimci           |                             28000 | 48000                             | 71.43                  |
+| Yapay Zeka             |                             24500 | 36666                             | 49.66                  |
 
 
 
@@ -159,9 +158,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Tecrübe Süresi   |   2023 Maaşı (Aylık net ortalama) |   2024 Maaşı (Aylık net ortalama) |   Maaş Artış Oranı (%) |
 |:-----------------|----------------------------------:|----------------------------------:|-----------------------:|
-| 0 - 6 ay         |                             30100 |                             47300 |                57.1429 |
-| 6 ay - 1 yıl     |                             31300 |                             41100 |                31.3099 |
-| 1 yıl - 2 yıl    |                             34875 |                             49350 |                41.5054 |
+| 0 - 6 ay         |                             28083 |                             44083 |                  56.97 |
+| 6 ay - 1 yıl     |                             31300 |                             41375 |                  32.19 |
+| 1 yıl - 2 yıl    |                             34875 |                             49350 |                  41.51 |
 
 ### Yarı Zamanlı - Normal Çalışan ve Mezun için Maaş Analizi
 
@@ -170,7 +169,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Ortalama Maaş (Aylık net ortalama) 2023 | Ortalama Maaş (Aylık net ortalama) 2024 | Maaş Artış Oranı (%) |
 |----------------------------------------|----------------------------------------|----------------------|
-| 15000.00                                 | 26000.00                                 | 73.33               |
+| 15000                                 | 26000                                 | 73.33               |
 
 
 
@@ -178,7 +177,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Pozisyon Alanı      |   2023 Maaşı (Aylık net ortalama) |   2024 Maaşı (Aylık net ortalama) |   Maaş Artış Oranı (%) |
 |:--------------------|----------------------------------:|----------------------------------:|-----------------------:|
-| Backend Geliştirici |                             15000 |                             26000 |                73.3333 |
+| Backend Geliştirici |                             15000 |                             26000 |                  73.33 |
 
 
 
@@ -186,7 +185,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Tecrübe Süresi   |   2023 Maaşı (Aylık net ortalama) |   2024 Maaşı (Aylık net ortalama) |   Maaş Artış Oranı (%) |
 |:-----------------|----------------------------------:|----------------------------------:|-----------------------:|
-| 2 yıl - 4 yıl    |                             15000 |                             26000 |                73.3333 |
+| 2 yıl - 4 yıl    |                             15000 |                             26000 |                  73.33 |
 
 ### Yarı Zamanlı - Normal Çalışan ve Mezun Değil için Maaş Analizi
 
@@ -195,7 +194,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Ortalama Maaş (Aylık net ortalama) 2023 | Ortalama Maaş (Aylık net ortalama) 2024 | Maaş Artış Oranı (%) |
 |----------------------------------------|----------------------------------------|----------------------|
-| 20770.00                                 | 30775.00                                 | 48.17               |
+| 20770                                 | 30775                                 | 48.17               |
 
 
 
@@ -203,7 +202,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Pozisyon Alanı   |   2023 Maaşı (Aylık net ortalama) |   2024 Maaşı (Aylık net ortalama) |   Maaş Artış Oranı (%) |
 |:-----------------|----------------------------------:|----------------------------------:|-----------------------:|
-| Yapay Zeka       |                             20770 |                             30775 |                48.1704 |
+| Yapay Zeka       |                             20770 |                             30775 |                  48.17 |
 
 
 
@@ -211,9 +210,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 | Tecrübe Süresi   |   2023 Maaşı (Aylık net ortalama) |   2024 Maaşı (Aylık net ortalama) |   Maaş Artış Oranı (%) |
 |:-----------------|----------------------------------:|----------------------------------:|-----------------------:|
-| 1 yıl - 2 yıl    |                             20770 |                             30775 |                48.1704 |
+| 1 yıl - 2 yıl    |                             20770 |                             30775 |                  48.17 |
 
-ℹ️  Anket sonuçları: 22 kişi üzerinden hesaplanmıştır.
+ℹ️  Anket sonuçları: 23 kişi üzerinden hesaplanmıştır.
 </details>
 
 <details>
@@ -255,7 +254,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★☆☆☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★☆☆☆☆☆☆☆☆
     - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//1-1/Fizik%201)
 
@@ -316,9 +315,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - 👤 **_Traktör Reis_**: Bölümün en gereksiz derslerinden bir tanesi. Hem de çok zor. Mesleki olarak çok bir şey katmıyor
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
-    - ✅ Dersi Kolay Geçer Miyim: ★★★★☆☆☆☆☆☆
+    - ✅ Dersi Kolay Geçer Miyim: ★★★☆☆☆☆☆☆☆
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★☆☆☆☆☆☆☆☆
-    - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//1-2/Devre%20Teorisi%20ve%20Elektronik%20Devreler/Devre%20Teorisi)
   - ℹ️ Dersin içeriği güncel değil
     - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
@@ -382,7 +381,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
     - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-19-oy)
+    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-21-oy)
     - [AEL](#-dr-ahmet-elbir)
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//1-2/Sayısal%20Analiz)
 
@@ -413,7 +412,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★☆☆☆☆☆☆
     - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [EU](#-dr-erkan-uslu)
@@ -431,10 +430,10 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★☆☆
-    - ℹ️ Yıldızlar 5 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★☆☆☆
+    - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-19-oy)
+    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-21-oy)
     - [AEL](#-dr-ahmet-elbir)
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//2-1/Ayrık%20Matematik)
 
@@ -443,7 +442,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★☆☆☆☆☆
     - ℹ️ Yıldızlar 5 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [MFA](#-prof-dr-m-fatih-amasyalı)
@@ -474,7 +473,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★☆☆
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [GB](#-doç-dr-gökhan-bilgin)
@@ -508,8 +507,8 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
-    - ℹ️ Yıldızlar 5 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
+    - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [ACK](#-doç-dr-ali-can-karaca)
     - [EU](#-dr-erkan-uslu)
@@ -526,7 +525,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★☆☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★☆☆☆☆☆☆
     - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [ACK](#-doç-dr-ali-can-karaca)
@@ -537,7 +536,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 #### 📘 Bilgisayar Organizasyonu 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★☆☆
+    - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [EU](#-dr-erkan-uslu)
     - [ACK](#-doç-dr-ali-can-karaca)
@@ -620,7 +621,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 ### 🗓 3. Yıl - Güz
 
 
-#### 📘 Algoritma Analizi 
+#### 📘 Algoritma Analizi 👑 En popüler ders (7 oy)
   - 🏷️ **Ders Tipi:** Zorunlu
   - 💭 **Öğrenci Görüşleri:**
     - 👤 **_Traktör Reis_**: Algoritma derslerinin devamı. Her algoritma dersinde olduğu gibi aşırı yoğun. Çok fazla ödev ve lab var. En çok kalınan derslerden biri.
@@ -629,8 +630,8 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
-    - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
+    - ℹ️ Yıldızlar 7 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [MEK](#-prof-dr-m-elif-karslıgil)
     - [MAG](#-doç-dr-m-amaç-güvensan)
@@ -655,8 +656,8 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - 👤 **_Traktör Reis_**: Normal şartlarda çok gerekli bir ders ama bir döneme sığdırılamayacak bir ders. Ondan dolayı her şey çorba oluyor.
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
-    - ✅ Dersi Kolay Geçer Miyim: ★★★☆☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
+    - ✅ Dersi Kolay Geçer Miyim: ★★☆☆☆☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
     - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [AEL](#-dr-ahmet-elbir)
@@ -672,7 +673,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★☆☆☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★☆☆☆☆☆☆
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [EU](#-dr-erkan-uslu)
@@ -700,11 +701,11 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 #### 📘 Seminer ve Meslek Etiği 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
-    - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★★☆
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★☆☆
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★☆☆☆☆☆☆☆☆☆
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-19-oy)
+    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-21-oy)
     - [HOİ](#-dr-hamza-osman-i̇lhan)
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//3-1/Seminer%20ve%20Meslek%20Etiği)
 
@@ -725,7 +726,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★☆☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★☆☆
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [FÇ](#-dr-furkan-çakmak)
@@ -742,7 +743,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
     - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [MUK](#-dr-m-utku-kalay)
@@ -757,8 +758,8 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - 👤 **_Traktör Reis_**: Gerekli bir ders ama aşırı ezber.
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
-    - ✅ Dersi Kolay Geçer Miyim: ★★★★★★☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★★☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★☆☆
     - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [HHB](#-prof-dr-hasan-hüseyin-balık)
@@ -775,7 +776,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★☆
     - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//Bilgisayar%20Projesi)
 
@@ -859,7 +860,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★★★
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★☆☆☆☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★☆☆☆☆☆☆☆☆☆
     - ℹ️ Yıldızlar 5 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//4-1/Atatürk%20İlkeleri%20ve%20İnklap%20Tarihi%201)
 
@@ -891,21 +892,22 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 💭 **Öğrenci Görüşleri:**
     - 👤 **_Traktör Reis_**: 6-7 kişilik grup projesi. Grup rastgele atanıyor. Allah kolaylık versin.
     - 👤 **_Selim Bey_**: bomboş bi ders, hocalara bunu dediğinizde müdek'i bahane ederler. Kapatılsın.
+    - 👤 **_Teradata_**: Gereksiz, uğraştırıcı ve 1 kredi. Kolay gelsin.
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★☆☆☆☆☆☆
-    - ℹ️ Yıldızlar 5 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★☆☆☆☆☆☆☆
+    - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//Çok%20Displinli%20Tasarım%20Projesi)
 
 ### 🗓 4. Yıl - Bahar
 
 
-#### 📘 Atatürk İlkeleri ve İnkılâp Tarihi 2 👑 En popüler ders (7 oy)
+#### 📘 Atatürk İlkeleri ve İnkılâp Tarihi 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★★★
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★☆☆☆☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★☆☆☆☆☆☆☆☆☆
     - ℹ️ Yıldızlar 7 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//4-2/Atatürk%20İlkeleri%20ve%20İnkılâp%20Tarihi%202)
 
@@ -916,7 +918,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - 👤 **_Traktör Reis_**: Ara projenin biraz daha proje konusu zor olan hali. En önemli şey danışman hocaların kontenjanları dolmadan, iyi hoca seçebilmek.
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
-    - ✅ Dersi Kolay Geçer Miyim: ★★★★★☆☆☆☆☆
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★☆☆☆☆☆☆
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//Bitirme%20Çalışması)
@@ -926,7 +928,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★★★
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★☆☆☆☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★☆☆☆☆☆☆☆☆☆
     - ℹ️ Yıldızlar 5 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//4-2/Türkçe%202)
 
@@ -945,9 +947,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 #### 📘 Bilgiye Erişim Ve Arama Motorları 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli 1
   - ⭐ **Yıldız Sayıları:**
-    - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★★☆
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★☆☆
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★☆☆☆☆
-    - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [MSA](#-doç-dr-mehmet-sıddık-aktaş)
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//Mesleki%20Seçmeli%201/Bilgiye%20Erişim%20Ve%20Arama%20Motorları)
@@ -968,7 +970,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli 1
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★☆☆☆☆
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [NA](#-prof-dr-nizamettin-aydın)
@@ -1004,7 +1006,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
     - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-19-oy)
+    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-21-oy)
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//Mesleki%20Seçmeli%201/Doğal%20Dil%20İşlemeye%20Giriş)
 
 
@@ -1035,10 +1037,13 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 #### 📘 İstatistiksel Veri Analizi 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli 1
+  - 💭 **Öğrenci Görüşleri:**
+    - 👤 **_Teradata_**: İstatistik Ve Olasılık Hesapları dersinin artık nasıl oluyorsa daha sıkıcı hâli. Uğraştırıcı tarafı Hocası olan basit bir ders.
+    - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
-    - ✅ Dersi Kolay Geçer Miyim: ☆☆☆☆☆☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ☆☆☆☆☆☆☆☆☆☆
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★★★★★★★
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★☆☆☆☆☆☆☆☆☆
+    - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [ACK](#-doç-dr-ali-can-karaca)
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//Mesleki%20Seçmeli%201/İstatistiksel%20Veri%20Analizi)
@@ -1051,7 +1056,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★☆☆☆☆
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [MAG](#-doç-dr-m-amaç-güvensan)
@@ -1188,7 +1193,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Siz de [linkten](https://forms.gle/SzNmK1w4rVaKE4ee8) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - ⭐ **Yıldız Sayıları:**
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★☆☆☆☆☆
-    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★☆☆☆☆☆☆
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [OK](#-prof-dr-oya-kalıpsız)
@@ -1252,7 +1257,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
     - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-19-oy)
+    - [BD](#-prof-dr-banu-diri--en-popüler-hoca-21-oy)
   - 📂 [Ders Klasörü](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv/tree/main//Lisansüstü/Veri%20Sıkıştırma)
 
 
@@ -1313,7 +1318,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 
 
 
-#### 👩‍🏫 Prof. Dr. Banu Diri 👑 En popüler hoca (19 oy)
+#### 👩‍🏫 Prof. Dr. Banu Diri 👑 En popüler hoca (21 oy)
 - 🚪 **Ofis:** EEF-D222
 - 🔗 **Araştırma Sayfası:** [http://avesis.yildiz.edu.tr/diri/](http://avesis.yildiz.edu.tr/diri/)
 - 💬 **Öğrenci Görüşleri:**
@@ -1329,11 +1334,11 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Seminer ve Meslek Etiği](#-seminer-ve-meslek-etiği)
   - 📖 [Veri Sıkıştırma](#-veri-sıkıştırma)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★☆
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★☆☆
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★★☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★☆☆
   - 🎉 Derste Eğlenir Miyim:	★★★★★★★★★☆
-  - ℹ️ Yıldızlar 19 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - ℹ️ Yıldızlar 21 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
@@ -1364,7 +1369,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 👤 **_Usmanaga_**: Bazı sınavları bile kendisi hazırlamıyor sınav esnasında biz ona sorunca görüyor bizimle beraber kafa yoruyor. Başkasına hazırlatıyor neyse ama hiç bakmamış olması çok kötü. Her sınavında düzeltme yapılması gerekiyor. Bu niye diğer hocalarda olmuyor, niye Elif Hoca'nın her sınavında oluyor? Sınav esnasında düzeltme yapınca her şey çözüldü sanıyorlar ama kimse bizim o yanlışlık yüzünden ne kadar süre harcadığımızı sormuyor ne gibi bir strateji ile sınavı çözdüğümüzü bilmiyor. Sınavları en geç okuyan hocalardan. 1.vizeyi finale 1 hafta kala açıklıyor. Bazen finali büt gecesi açıklıyor sabah bi bakıyorsunuz meğer o gün sınavınız varmış dün gece belli olmuş ve saati geçmiş. Sınav kağıdına itiraz ettirmiyor zaten isteseniz de edemezsiniz çünkü o okuyana kadar kağıdınızı unutmuş oluyorsunuz. Ama dersi iyi anlatıyor. Ha bu arada mail konusunda da çok iyi denemez ama çok kötü de değil. %50 ihtimalle ulaşıyorsunuz. Bence artık bir şey öğretmek gibi bir derdi yok. Ben ne seçmeli ne de zorunlu derslerden Elif Hoca'yı seçmenizi önermezdim. Ama zorunlu derslerde diğer seçenekler de pek iyi değil. Hocayla alakalı bir sorunum gerçekten yok zaten mezunum. Burada kalan arkadaşlara tavsiye vermekten ziyade belki hoca bir gün görür bu yazdıklarımı da bu konularda iyileştirme yapma yoluna gider diye yazıyorum. Çünkü kimse okul boyunca fikirlerimizi sormadı. Tek derdim ilgili kişilerin bu söylediklerimi eleştiri olarak kabul edip en azından birkaç tanesinde iyileştirme yapması. Bunu ifade edebileceğimiz bir platform yok okulda. Ben mezun olduğum okulun daha iyi olmasını istiyorum. Adının iyi anılmasını istiyorum. Saygılarımla.
   - ℹ️ Siz de [linkten](https://forms.gle/WbwDxHUz6ebJA7t36) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Algoritma Analizi](#-algoritma-analizi)
+  - 📖 [Algoritma Analizi](#-algoritma-analizi--en-popüler-ders-7-oy)
   - 📖 [Görüntü İşleme](#-görüntü-i̇şleme)
   - 📖 [Veri Yapıları ve Algoritmalar](#-veri-yapıları-ve-algoritmalar)
 - ⭐ **Yıldız Sayıları:**
@@ -1372,7 +1377,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★☆☆☆☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
   - 🎉 Derste Eğlenir Miyim:	★★★★★☆☆☆☆☆
-  - ℹ️ Yıldızlar 13 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - ℹ️ Yıldızlar 14 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
@@ -1395,9 +1400,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Bilgisayar Mühendisleri İçin Diferansiyel Denklemler](#-bilgisayar-mühendisleri-i̇çin-diferansiyel-denklemler)
   - 📖 [Kollektif Öğrenme](#-kollektif-öğrenme)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★★
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★★★
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★★☆
   - 🎉 Derste Eğlenir Miyim:	★★★★★★★★★☆
   - ℹ️ Yıldızlar 14 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1434,9 +1439,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Yazılım Kalitesi ve Test Teknikleri](#-yazılım-kalitesi-ve-test-teknikleri)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★☆☆☆☆☆☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★☆☆☆☆☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★☆☆☆☆☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★★☆☆☆☆☆☆☆☆
   - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
@@ -1492,9 +1497,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [İstatistiksel Veri Analizi](#-i̇statistiksel-veri-analizi)
   - 📖 [Bilgisayar Organizasyonu](#-bilgisayar-organizasyonu)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★☆☆
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
   - 🎉 Derste Eğlenir Miyim:	★★★★★★★☆☆☆
   - ℹ️ Yıldızlar 9 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1517,7 +1522,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Veri Madenciliğine Giriş](#-veri-madenciliğine-giriş)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
   - 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
   - ℹ️ Yıldızlar 8 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
@@ -1542,7 +1547,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★★★★★☆☆☆☆☆
   - ℹ️ Yıldızlar 8 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
@@ -1557,7 +1562,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - ℹ️ Siz de [linkten](https://forms.gle/WbwDxHUz6ebJA7t36) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Bilimlerine Giriş](#-bilgisayar-bilimlerine-giriş)
-  - 📖 [Algoritma Analizi](#-algoritma-analizi)
+  - 📖 [Algoritma Analizi](#-algoritma-analizi--en-popüler-ders-7-oy)
   - 📖 [Mobil Programlamaya Giriş](#-mobil-programlamaya-giriş)
   - 📖 [Veri Yapıları ve Algoritmalar](#-veri-yapıları-ve-algoritmalar)
 - ⭐ **Yıldız Sayıları:**
@@ -1565,7 +1570,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★☆☆☆☆☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
   - 🎉 Derste Eğlenir Miyim:	★★★★☆☆☆☆☆☆
-  - ℹ️ Yıldızlar 17 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - ℹ️ Yıldızlar 19 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
@@ -1581,7 +1586,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Bilgiye Erişim Ve Arama Motorları](#-bilgiye-erişim-ve-arama-motorları)
   - 📖 [Yazılım Mühendisliği](#-yazılım-mühendisliği)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
   - 🎉 Derste Eğlenir Miyim:	★★★★★☆☆☆☆☆
@@ -1610,10 +1615,10 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [İşletim Sistemleri](#-i̇şletim-sistemleri)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
-  - ℹ️ Yıldızlar 17 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★★★★★☆☆☆☆☆
+  - ℹ️ Yıldızlar 18 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
@@ -1635,11 +1640,11 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Bilgisayar Organizasyonu](#-bilgisayar-organizasyonu)
   - 📖 [Sayısal İşaret İşleme](#-sayısal-i̇şaret-i̇şleme)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★☆☆☆☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★★☆☆☆☆☆☆
-  - ℹ️ Yıldızlar 10 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★☆☆☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★☆☆☆☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★☆☆☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★★★☆☆☆☆☆☆☆
+  - ℹ️ Yıldızlar 11 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
@@ -1663,10 +1668,10 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Mikroişlemci Sistemleri](#-mikroişlemci-sistemleri)
   - 📖 [Veri İletişimi ve Bilgisayar Ağları](#-veri-i̇letişimi-ve-bilgisayar-ağları)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★☆
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★☆☆
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★☆☆☆☆☆☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★★★★★☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
   - ℹ️ Yıldızlar 8 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
@@ -1687,9 +1692,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Mesleki Hukuk ve Etik](#-mesleki-hukuk-ve-etik)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★★★★★★★☆
+  - 🎉 Derste Eğlenir Miyim:	★★★★★★★★☆☆
   - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
@@ -1703,8 +1708,8 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Yapısal Programlama](#-yapısal-programlama)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★★
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★★☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★☆☆
   - 🎉 Derste Eğlenir Miyim:	★★★★★★★★☆☆
   - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1715,6 +1720,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 - 🔗 **Araştırma Sayfası:** [http://avesis.yildiz.edu.tr/ukalay/](http://avesis.yildiz.edu.tr/ukalay/)
 - 💬 **Öğrenci Görüşleri:**
   - 👤 **_Traktör Reis_**: Veri tabanını çok iyi bilir. İşini sever. Çok karmaşık anlatır.
+  - 👤 **_Teradata_**: Açıklaması için açıklama gerektiren bir hocadır. Konusu (veri tabanı) hakkında bilmediği yoktur. Rahat bir hocadır, yoklama aldığını görmedim. verdiği seçmeli dersler detay doludur, önermem.
   - ℹ️ Siz de [linkten](https://forms.gle/WbwDxHUz6ebJA7t36) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Veritabanı Yönetimi](#-veritabanı-yönetimi)
@@ -1725,7 +1731,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★☆☆☆☆☆☆☆
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★☆☆☆☆☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★☆☆☆☆☆☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★☆☆☆☆☆☆☆☆☆
   - ℹ️ Yıldızlar 9 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
@@ -1742,9 +1748,9 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Oyun Geliştirmeye Giriş](#-oyun-geliştirmeye-giriş)
   - 📖 [Bilgisayarla Görme](#-bilgisayarla-görme)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★☆☆☆☆☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★☆☆☆☆☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★☆☆☆☆☆☆
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★☆☆☆☆☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★☆☆☆☆☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★☆☆☆☆☆☆☆
   - 🎉 Derste Eğlenir Miyim:	★★☆☆☆☆☆☆☆☆
   - ℹ️ Yıldızlar 8 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1765,11 +1771,11 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Yazılım Mühendisliği](#-yazılım-mühendisliği)
   - 📖 [Nesneye Dayalı Tasarım ve Modelleme](#-nesneye-dayalı-tasarım-ve-modelleme)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★★☆
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
   - 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★★★★★★☆☆
-  - ℹ️ Yıldızlar 7 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - 🎉 Derste Eğlenir Miyim:	★★★★★★★☆☆☆
+  - ℹ️ Yıldızlar 8 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
@@ -1784,10 +1790,10 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Veri İletişimi](#-veri-i̇letişimi)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★☆☆☆☆☆☆☆☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★☆☆☆☆☆☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★☆☆☆☆☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★☆☆☆☆☆☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★☆☆☆☆☆☆☆☆
   - 🎉 Derste Eğlenir Miyim:	★☆☆☆☆☆☆☆☆☆
-  - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 - ℹ️ Bu hoca artık aktif görevde değil. Ya emekli olmuş ya da başka bir üniversiteye geçmiş olabilir..
 
 ### Araştırma Görevlileri
@@ -1891,11 +1897,16 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 - 🚪 **Ofis:** D-211
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/adalik/](https://avesis.yildiz.edu.tr/adalik/)
 - 💬 **Öğrenci Görüşleri:**
+  - 👤 **_Teradata_**: Öğrenciyi terslemeyi seven, pek sempatik olmayan bir eğitim görevlisidir. Bazı seçmeli derslere ACK yerine girdiği olur, dikkatli seçim yapın.
   - ℹ️ Siz de [linkten](https://forms.gle/WbwDxHUz6ebJA7t36) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 - ⭐ **Yıldız Sayıları:**
-  - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  - 🎭 Dersi Zevkli Anlatır Mı:	★☆☆☆☆☆☆☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★☆☆☆☆☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★☆☆☆☆☆☆☆☆☆
+  - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
 
 
 

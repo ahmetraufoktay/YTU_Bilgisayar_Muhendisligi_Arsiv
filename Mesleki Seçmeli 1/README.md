@@ -28,10 +28,10 @@
 - 📅 **Yıl:** 0
 - 📆 **Dönem:** 
 - 🏫 **Ders Tipi:** Mesleki Seçmeli 1
-- ⭐ **Kolaylık Puanı:** ★★★★★★★★★☆
+- ⭐ **Kolaylık Puanı:** ★★★★★★★★☆☆
 - 🔑 **Gereklilik Puanı:** ★★★★★★☆☆☆☆
 
-    - ℹ️ Yıldızlar 3 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
@@ -69,7 +69,7 @@
 - 📆 **Dönem:** 
 - 🏫 **Ders Tipi:** Mesleki Seçmeli 1
 - ⭐ **Kolaylık Puanı:** ★★★★★★★★☆☆
-- 🔑 **Gereklilik Puanı:** ★★★★★★★☆☆☆
+- 🔑 **Gereklilik Puanı:** ★★★★★★☆☆☆☆
 
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
 
@@ -193,10 +193,12 @@
 - 📅 **Yıl:** 0
 - 📆 **Dönem:** 
 - 🏫 **Ders Tipi:** Mesleki Seçmeli 1
-- ⭐ **Kolaylık Puanı:** ☆☆☆☆☆☆☆☆☆☆
-- 🔑 **Gereklilik Puanı:** ☆☆☆☆☆☆☆☆☆☆
+- 💬 **Öğrenci Görüşleri:**
+  - 👤 **_Teradata_**: İstatistik Ve Olasılık Hesapları dersinin artık nasıl oluyorsa daha sıkıcı hâli. Uğraştırıcı tarafı Hocası olan basit bir ders.
+- ⭐ **Kolaylık Puanı:** ★★★★★★★★★★
+- 🔑 **Gereklilik Puanı:** ★☆☆☆☆☆☆☆☆☆
 
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
@@ -215,7 +217,7 @@
 - 💬 **Öğrenci Görüşleri:**
   - 👤 **_Traktör Reis_**: Ders güzel aslında, ama sınavları özellikle ezber. Ödevleri ve projeleri çok zor. Günler alıyor.
 - ⭐ **Kolaylık Puanı:** ★★★★★☆☆☆☆☆
-- 🔑 **Gereklilik Puanı:** ★★★★★★★☆☆☆
+- 🔑 **Gereklilik Puanı:** ★★★★★★☆☆☆☆
 
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
 
@@ -445,7 +447,7 @@
 - 💬 **Öğrenci Görüşleri:**
   - 👤 **_Traktör Reis_**: Sistem analizine benzer.
 - ⭐ **Kolaylık Puanı:** ★★★★★☆☆☆☆☆
-- 🔑 **Gereklilik Puanı:** ★★★★★☆☆☆☆☆
+- 🔑 **Gereklilik Puanı:** ★★★★☆☆☆☆☆☆
 
     - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
 #### 💡 Derse Dair Öneriler
@@ -468,8 +470,8 @@
 - 📅 **Yıl:** 0
 - 📆 **Dönem:** yok
 - 🏫 **Ders Tipi:** Mesleki Seçmeli 1
-- ⭐ **Kolaylık Puanı:** ★☆☆☆☆☆☆☆☆☆
-- 🔑 **Gereklilik Puanı:** ★☆☆☆☆☆☆☆☆☆
+- ⭐ **Kolaylık Puanı:** ☆☆☆☆☆☆☆☆☆☆
+- 🔑 **Gereklilik Puanı:** ☆☆☆☆☆☆☆☆☆☆
 
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
 

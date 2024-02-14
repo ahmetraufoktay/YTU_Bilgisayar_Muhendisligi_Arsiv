@@ -5,11 +5,13 @@
 - 📅 **Yıl:** 0
 - 📆 **Dönem:** 
 - 🏫 **Ders Tipi:** Mesleki Seçmeli 1
+- 💬 **Öğrenci Görüşleri:**
+  - 👤 **_Teradata_**: İstatistik Ve Olasılık Hesapları dersinin artık nasıl oluyorsa daha sıkıcı hâli. Uğraştırıcı tarafı Hocası olan basit bir ders.
 - ⭐ **Yıldız Sayıları:**
-  - 🛤️ **Kolaylık Puanı:** ☆☆☆☆☆☆☆☆☆☆
-  - 🔑 **Gereklilik Puanı:** ☆☆☆☆☆☆☆☆☆☆
+  - 🛤️ **Kolaylık Puanı:** ★★★★★★★★★★
+  - 🔑 **Gereklilik Puanı:** ★☆☆☆☆☆☆☆☆☆
 
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
+    - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/3njZjmhm215YCAxe6) anonim şekilde oylamaya katılabilirsiniz.
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
